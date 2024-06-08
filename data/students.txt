@@ -1,0 +1,58 @@
+student
+  first-name = Madison
+  last-name = Mullins
+  gender = female
+  profile-image-url = https://image.tmdb.org/t/p/original/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg
+  enrolled-in-class = Physics
+  enrolled-in-class = Chemistry
+  enrolled-in-class = Music
+  enrolled-in-class = Biology
+  enrolled-in-class = Mathematics
+
+student
+  first-name = Phil
+  last-name = Woolridge
+  gender = male
+  enrolled-in-class = Mathematics
+  enrolled-in-class = Physics
+  enrolled-in-class = Business
+
+student
+  first-name = Sarah
+  last-name =  Riley
+  gender = female
+  enrolled-in-class = Nutrition
+  enrolled-in-class = Dance
+  enrolled-in-class = Music
+  enrolled-in-class = Biology
+  enrolled-in-class = Health
+  enrolled-in-class = Hospitality
+
+student
+  first-name = Ruby
+  last-name =  Douglas
+  gender = female
+  enrolled-in-class = Mathematics
+  enrolled-in-class = Computers
+  enrolled-in-class = Chemistry
+  enrolled-in-class = Biology
+  enrolled-in-class = Fitness
+
+student
+  first-name = Thomas
+  last-name = Wells
+  gender = male
+  enrolled-in-class = Fitness
+  enrolled-in-class = Biology
+  enrolled-in-class = Chemistry
+  enrolled-in-class = Health
+
+student
+  first-name = Elmer
+  last-name = Burns
+  gender = male
+  enrolled-in-class = Fitness
+  enrolled-in-class = Biology
+  enrolled-in-class = Chemistry
+  enrolled-in-class = Health
+
